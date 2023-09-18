@@ -1,0 +1,1 @@
+This HTML, CSS, and JavaScript code creates a temperature converter web application. Users can input a temperature value in Fahrenheit or Kelvin, click the "Convert" button, and see the equivalent temperature in Celsius. The interface has responsive design and uses external libraries for icons and styling, including dynamic button animations.
